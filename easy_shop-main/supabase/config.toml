@@ -1,0 +1,4 @@
+project_id = "ndbsigauibktwkiocexu"
+
+[functions.recommend-products]
+verify_jwt = false
